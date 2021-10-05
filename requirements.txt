@@ -1,0 +1,4 @@
+Pandas
+Seaborn
+numpy==1.21.1
+pytz==2021.3
